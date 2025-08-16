@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment - CRITICAL
+venv/
+.venv/
+
+# Secrets - CRITICAL: Never commit secrets!
+.env
+*.env
+
+# macOS folder attributes
+.DS_Store
+
+# VS Code specific settings
+.vscode/
