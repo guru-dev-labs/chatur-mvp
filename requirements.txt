@@ -1,0 +1,4 @@
+groq
+deepgram-sdk
+python-dotenv
+websockets
